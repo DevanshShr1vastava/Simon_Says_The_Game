@@ -23,3 +23,8 @@
   - Next Level will start after 2 seconds if correct answer
   - Keep Sound on for best Experience
   - __Sound is required for blind mode__
+
+### Screenshots
+![screenshot1](https://github.com/Scarredhealer/Simon_Says_The_Game/blob/main/ScreenShots/ss1.png)
+![screenshot2](https://github.com/Scarredhealer/Simon_Says_The_Game/blob/main/ScreenShots/ss2.png)
+![screenshot3](https://github.com/Scarredhealer/Simon_Says_The_Game/blob/main/ScreenShots/ss3.png)
