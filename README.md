@@ -21,4 +21,4 @@
   - The game doesn't have an end level
   - Next Level will start after 2 seconds if correct answer
   - Keep Sound on for best Experience
-  - Sound is required for blind mode
+  - __Sound is required for blind mode__
