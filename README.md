@@ -1,4 +1,4 @@
-# Simon_Says_The_Game
+# Simon Says : The Game
 ## A personal interpretation of the popular memory game called simon says and has many other names as well
 
 ### Two game modes available
