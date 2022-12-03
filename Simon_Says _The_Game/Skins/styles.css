@@ -1,0 +1,71 @@
+.box{
+    height: 250px;
+    width : 250px;
+    border : 10px;
+    border-style: solid;
+    border-radius : 20%;
+    margin : 25px 25px 25px 25px;
+
+}
+.strtbtn{
+    height : 100px;
+    width : 200px;
+    border : 10px;
+    border-color :#FF8CFF;
+    border-style : solid;
+    font-family: 'Press Start 2P', cursive;
+    font-size : 30px;
+    text-align: center; 
+    background-color:#00EEFF;
+}
+
+.red{
+    background-color : red;
+}
+
+.green{
+    background-color : green;
+}
+
+.yellow{
+    background-color : yellow;
+}
+
+.blue{
+    background-color : blue;
+    
+}
+
+.top_part{
+    text-align : center;
+    z-index : -1;
+    position : relative;
+    margin-bottom : 2%;
+    margin-top : 2%;
+    font-family: 'Press Start 2P', cursive;
+    color : whitesmoke;
+}
+h1{
+    font-size : 50px;
+}
+
+body{
+    background-color : #452c63;
+    background-image : url("bgArt/st_img2.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+
+}
+.alert{
+    z-index : 1000;
+    position: fixed;
+    top: 5px; 
+    left:2%;
+    width: 96%;
+}
+
+li{
+    font-size : 20px;
+}
