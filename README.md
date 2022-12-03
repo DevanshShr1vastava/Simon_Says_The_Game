@@ -1,6 +1,6 @@
 # Simon Says : The Game
 ## A personal interpretation of the popular memory game called "simon says"
-. has many other names as well
+(known by other names as well)
 
 ### Two game modes available
   - classic mode : Auditory and visual cues enabled
